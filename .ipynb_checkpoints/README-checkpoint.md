@@ -1,3 +1,5 @@
+<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">  
+
 # dsi30-projects  
 General Assembly  
 30/6/2022 project1 uploaded  
@@ -5,5 +7,5 @@ General Assembly
 17/7/2022 project2 uploaded  
 28/7/2022 project3 uploaded  
 14/8/2022 project4 and project4 group work uploaded  
-15/8/2022 project4 updated
+15/8/2022 project4 updated  
 7/9/2022 Capstone project code and weights updated
